@@ -1,3 +1,4 @@
+# docker_file
 FROM centos
 MAINTAINER vikash@gmail.com
 RUN cd /etc/yum.repos.d/
