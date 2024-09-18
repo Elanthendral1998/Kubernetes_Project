@@ -1,4 +1,4 @@
-# docker_file
+# docker_file is must important 
 FROM centos
 MAINTAINER vikash@gmail.com
 RUN cd /etc/yum.repos.d/
